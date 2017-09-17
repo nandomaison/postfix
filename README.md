@@ -1,3 +1,3 @@
 # postfix
 
-Repositório com alguns scripts utéis na manutenção de postfix
+Repositório com alguns scripts úteis na manutenção de postfix
